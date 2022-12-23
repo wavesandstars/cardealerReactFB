@@ -1,8 +1,8 @@
-export const firebaseConfig  = {
-    apiKey: "AIzaSyDvZ_9E5D5pMEJIgmSup_yutHQwunl6lYg",
-    authDomain: "car-database-react-f3fcf.firebaseapp.com",
-    projectId: "car-database-react-f3fcf",
-    storageBucket: "car-database-react-f3fcf.appspot.com",
-    messagingSenderId: "865212495187",
-    appId: "1:865212495187:web:0b25b578a9a93123745da6"
-  };
+export const firebaseConfig = {
+  apiKey: "AIzaSyA9Z-1Gjo8yG_NfkCqlUYU1LF3gST7s4gU",
+  authDomain: "car-db-react-final.firebaseapp.com",
+  projectId: "car-db-react-final",
+  storageBucket: "car-db-react-final.appspot.com",
+  messagingSenderId: "158895569181",
+  appId: "1:158895569181:web:c43c0f67e516a223be89f4"
+};
