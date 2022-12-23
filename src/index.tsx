@@ -26,10 +26,10 @@ ReactDOM.render(
         <Route path='/Cars'>
           <Cars></Cars>
         </Route> 
-        <Route path='/Contact'>
+        <Route path='/contact'>
           <Contact></Contact>
         </Route>
-        <Route path='/About'>
+        <Route path='/about'>
           <About></About>
         </Route>
         <Route path='/signin'>
